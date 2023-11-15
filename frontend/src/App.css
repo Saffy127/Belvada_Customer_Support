@@ -1,0 +1,90 @@
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: black;
+  color: white;
+  margin: 0;
+}
+
+.chat-box {
+  background-color: #4B0082; /* Indigo purple color */
+  padding: 20px;
+  margin: 20px;
+  border-radius: 8px;
+  overflow-y: auto;
+  max-height: 400px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds shadow for depth */
+}
+
+.bot-msg::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  width: 0;
+  height: 0px;
+  border: 10px solid transparent;
+  border-right-color: #6A0DAD;
+  border-left: 0;
+  margin-top: -10px;
+}
+
+.bot-msg {
+  position: relative;
+  background-color: #6A0DAD; /* Darker Purple */
+  color: white;
+  padding: 10px;
+  margin: 5px 15px 5px 5px;
+  border-radius: 16px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16); /* Adds depth */
+}
+
+.user-msg {
+  background-color: grey;
+  color: black;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 4px;
+  border: none;
+  text-align: right;
+}
+
+input[type="text"] {
+  width: calc(100% - 60px);
+  padding: 10px;
+  border-radius: 4px;
+  border: none;
+  margin-right: 5px;
+}
+
+button {
+  background-color: #6A0DAD; /* Darker */
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4B0082;
+}
+
+.App-header {
+  width: 1px;
+  height: 1px;
+  background-color: #4B0082;
+  padding: 20px;
+  text-align: center;
+}
+
+.chat-icon {
+  width: 100px; /* Set a reasonable size for the icon */
+  height: 100px; /* Set a reasonable size for the icon */
+  margin-bottom: 10px;
+  border-radius: 50%; /* Makes it circular */
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease;
+}
+
