@@ -1,0 +1,47 @@
+.App {
+  background-color: black;
+  color: purple;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  border: 2px solid purple;
+  border-radius: 10px;
+}
+
+input[type="text"] {
+  width: 70%;
+  padding: 10px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: purple;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkviolet;
+}
+
+.chat-box {
+  background-color: #111;
+  padding: 20px;
+  height: 300px;
+  overflow-y: auto;
+  border: 1px solid purple;
+  margin-bottom: 20px;
+}
+
+.chat-box p {
+  background-color: #222;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
