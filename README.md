@@ -24,6 +24,7 @@ Belvada is integrated within SEDYTH444's digital infrastructure, providing seaml
 ## Contact
 
 For a demonstration of Belvada's capabilities or to inquire about integrating her services into your platform, contact SEDYTH444's customer service department.
+![SEDYTH444_DREADNAUGHT](https://github.com/Saffy127/Belvada_Customer_Support/assets/88598834/9f5c4ab3-484d-4747-90cf-33f9dd079fd5)
 
 ---
 
