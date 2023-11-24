@@ -1,7 +1,8 @@
 
 # Lore for SEDYTH444's World with Belvada AI
 
-![Dreadnaught Spacecraft](URL_of_your_image) <!-- Replace with the actual image URL -->
+![SEDYTH444_DREADNAUGHT](https://github.com/Saffy127/Belvada_Customer_Support/assets/88598834/cb560619-b1b1-41c9-ae24-69ff00eecf56)
+
 
 In the vastness of the cosmos, aboard the colossal Dreadnaught spacecraft, roams the singular entity known as SEDYTH444, an enigmatic figure whose genius transcends known boundaries of technology and AI. SEYTH444 is not just a company; it is the embodiment of one visionary's pursuit to merge the realms of artificial and human intelligence through a network of AI agent swarms.
 
